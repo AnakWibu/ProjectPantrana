@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuStock"
+        android:icon="@drawable/ic_baseline_toc_24"
+        android:title="Stock List"
+        />
+
+    <item
+        android:id="@+id/menuRecipe"
+        android:icon="@drawable/ic_baseline_food_bank_24"
+        android:title="Recipe List"
+        />
+
+    <item
+        android:id="@+id/menuShopping"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="Shopping List"
+        />
+</menu>
